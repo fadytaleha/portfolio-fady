@@ -80,7 +80,7 @@ export default function Hero() {
             {/* Conteneur de la photo */}
             <div className="relative w-full h-full rounded-3xl overflow-hidden border border-slate-800 bg-slate-900 p-2">
               <img 
-                src= "img/Sujet.png"
+                src= "/img/imgfady.JPG"
                 alt="Fady Taleha" 
                 className="w-full h-full object-cover rounded-2xl"
               />
